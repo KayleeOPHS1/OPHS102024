@@ -1,0 +1,11 @@
+Team1Name1 = "Special Speros"
+Team2Name = "Croydon Kebabs"
+
+FREETHROW = 1
+TWOPOINTER = 2
+THREEPOINTER = 3
+
+#The game of basketbll
+#The points will never change
+#It makes sense to 
+#Define the points in a constant
