@@ -1,0 +1,10 @@
+adjective1 = str(input("enter an adjective"))
+animal1 = str(input("enter an animal"))
+place1 = str(input("enter a place"))
+pluralnoun = str(input("enter a plural noun"))
+job1 = str(input("enter a job"))
+age1 = int(input("enter an age"))
+ 
+
+print("Once upon a time there was a", adjective1, animal1, "who lived in", place1)
+print("this",animal1, "worked as a", job1, "since the age of", age1)
