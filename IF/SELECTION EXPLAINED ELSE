@@ -1,7 +1,0 @@
-baby = input("Has the baby been born yet?y or n?")
- 
-if baby == ("y"):
-   print("congratualtions")
-   
-else:
-  print("Call us when you have news")
