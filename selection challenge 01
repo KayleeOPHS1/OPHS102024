@@ -1,0 +1,9 @@
+#04SELECTIONCHALLENGES02
+
+Num1 = int(input("Enter a number under 20"))
+
+if Num1 >= 20:
+  print("too high")
+  
+else:
+  print("thank you")
