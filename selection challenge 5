@@ -1,0 +1,19 @@
+question2=("is it windy?")
+question=("is it raining?")
+
+question=str(input("is it raining?")).lower()
+
+if question == "yes":
+  question2 = str(input("is it windy?"))
+  
+if question == "no":
+    print("take an umbrella")
+
+if question2 == "yes":
+  print("it is too windy for an umbrella")
+  
+if question2 == "no":
+  print("take an umbrella")
+  print("enjoy your day")
+  
+  
