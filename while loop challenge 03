@@ -1,0 +1,7 @@
+
+number= int(input("enter a number"))
+total = number
+answer = y
+
+while answer = y:
+  number= int(input("enter another number"))
