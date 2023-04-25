@@ -1,0 +1,2 @@
+for counting in range (102):
+  print(counting)
