@@ -1,0 +1,7 @@
+num1=int(input("enter a number"))
+
+num2=int(input("enter another number"))
+
+average=(num1+num2)/2
+
+print(average)
