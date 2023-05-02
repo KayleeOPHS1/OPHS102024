@@ -1,0 +1,10 @@
+question=int(input("how long do you spend watching tv in a day?"))
+
+if question<2:
+  print("that shouldnt rot your brain too much")
+  
+elif question<4:
+  print("arent you getting square eyes?")
+  
+else:
+  print("fresh air beats channel flicking")
