@@ -1,0 +1,5 @@
+name=input("enter name")
+
+subject=input("what is your favourite colour" +name+"?")
+
+print("i like",(subject), "aswell")
