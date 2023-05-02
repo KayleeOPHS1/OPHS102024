@@ -1,0 +1,3 @@
+text=input("Enter your sentence: ")
+
+print ("There are",len(text),"characters")
