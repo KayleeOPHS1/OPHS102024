@@ -1,0 +1,7 @@
+name=input("enter name")
+
+if name ==("kaylee"):
+  print("you're cool")
+  
+if name != ("kaylee"):
+  print("nice to meet you")
