@@ -1,0 +1,8 @@
+name=str(input("enter name"))
+name2=str(input("enter name"))
+fullname=(name+""+name2)
+
+print(name,"",name2)
+
+
+print(len(fullname))
