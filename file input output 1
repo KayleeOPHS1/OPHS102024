@@ -1,0 +1,16 @@
+notepad = open ("read_it.txt","w")
+
+num1 = input("enter a number")
+num2 = input("enter a number")
+num3 = input("enter a number")
+num4 = input("enter a number")
+num5 = input("enter a number")
+
+notepad.write(num1)
+notepad.write(num2)
+notepad.write(num3)
+notepad.write(num4)
+notepad.write(num5)
+notepad.close()
+
+print("\nGo and open read.txt")
